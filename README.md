@@ -1,6 +1,4 @@
 # ProjectPCShop
-# SaswastoPCShop
-# SaswastoPC
 Any feedback will be appriciated.
 Project 1: SB PC Shop 
 Project overview:
